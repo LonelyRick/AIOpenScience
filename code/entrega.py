@@ -13,7 +13,7 @@ headers = {'Accept': 'application/xml'}
 client = GrobidClient(config_path="./config.json")
 
 #Lista de PDFs a evaluar
-pdfs = ['64602307.pdf', '39308_Inteligencia_artificial.pdf']
+pdfs = ['']
 
 #Obtención del html mediante Grobid
 def getGrobid(pdf):
