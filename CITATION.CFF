@@ -4,6 +4,7 @@ authors:
   - family-names: Ruiz Ballester
     given-names: Alejandro
 title: "Individual Assesment"
+license: Apache-2.0
 version: 1.0.0
 doi: https://zenodo.org/badge/latestdoi/599211911
 date-released: 07-03-2023
