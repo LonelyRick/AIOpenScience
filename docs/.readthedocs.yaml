@@ -1,4 +1,9 @@
 version: 2
 
 mkdocs:
-  configuratrion: mkdocs.yml
+  configuration: mkdocs.yml
+
+python:
+  version: 3.10
+  install:
+    - requirements.txt
