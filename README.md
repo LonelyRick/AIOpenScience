@@ -35,7 +35,7 @@ docker run -t --rm -p 8070:8070 lfoppiano/grobid:0.7.2
 python entrega.py
 ```
 # How to use using Docker 
-
+Firstly clone the repository in a folder
 1) Add in the folder ./code/shared all the downloaded PDFs that you want to have analyzed 
 2) Build the docker image
 ```bash
