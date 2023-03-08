@@ -21,4 +21,4 @@ This file include all known bugs in the current code:
             @jinja2.contextfilter
         AttributeError: module 'jinja2' has no attribute 'contextfilter'
    
-   2) The encoding of the code is not working properly, some words displayed on the WordCloud are represented with unrecognizable caracters
+   2) The encoding of the code is not working properly, some words displayed on the WordCloud are represented with unrecognizable caracters if the text uses any accents
