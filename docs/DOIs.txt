@@ -1,0 +1,19 @@
+Occupancy Prediction Using Low-Cost and Low-Resolution Heat Sensors for Smart Offices https://doi.org/10.3390/s20195497
+
+Digital Storytelling for Historical Understanding: Treaty Education for Reconciliation https://doi.org/10.4119/jsse-779
+
+Corrigendum: New Sesquiterpenoids From Plant-Associated Irpex lacteus https://doi.org/10.3389/fchem.2022.946835
+
+A Comparison of Several AI Techniques for Authorship Attribution on Romanian Texts https://doi.org/10.3390/math10234589
+
+Embracing AI-Based Education: Perceived Social Presence of Human Teachers and Expectations About Machine Teachers in Online Education https://doi.org/10.30658/hmc.4.9
+
+A Review of Fundamental Optimization Approaches and the Role of AI Enabling Technologies in Physical Layer Security https://doi.org/10.3390/s22093589
+
+Relationship Between Putative eps Genes and Production of Exopolysaccharide in Lactobacillus casei LC2W https://doi.org/10.3389/fmicb.2018.01882
+
+Refining the Galerkin method error estimation for parabolic type problem with a boundary condition https://doi.org/10.1051/e3sconf/202130403019
+
+Meibomian Gland Density: An Effective Evaluation Index of Meibomian Gland Dysfunction Based on Deep Learning and Transfer Learning https://doi.org/10.3390/jcm11092396
+
+Determinants of Tourism Demand Using Machine Learning Techniques https://doi.org/10.46222/ajhtl.19770720.256
