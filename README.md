@@ -46,6 +46,6 @@ docker pull lfoppiano/grobid:0.7.2
 docker run -t --rm -p 8070:8070 lfoppiano/grobid:0.7.2
 ```
 4)Run the code container 
-``bash
+```bash
 docker run --rm -it --network="host" -v ./shared:/shared img_name
 ```
