@@ -1,9 +1,5 @@
 Occupancy Prediction Using Low-Cost and Low-Resolution Heat Sensors for Smart Offices https://doi.org/10.3390/s20195497
 
-Digital Storytelling for Historical Understanding: Treaty Education for Reconciliation https://doi.org/10.4119/jsse-779
-
-Corrigendum: New Sesquiterpenoids From Plant-Associated Irpex lacteus https://doi.org/10.3389/fchem.2022.946835
-
 A Comparison of Several AI Techniques for Authorship Attribution on Romanian Texts https://doi.org/10.3390/math10234589
 
 Embracing AI-Based Education: Perceived Social Presence of Human Teachers and Expectations About Machine Teachers in Online Education https://doi.org/10.30658/hmc.4.9
@@ -17,3 +13,7 @@ Refining the Galerkin method error estimation for parabolic type problem with a 
 Meibomian Gland Density: An Effective Evaluation Index of Meibomian Gland Dysfunction Based on Deep Learning and Transfer Learning https://doi.org/10.3390/jcm11092396
 
 Determinants of Tourism Demand Using Machine Learning Techniques https://doi.org/10.46222/ajhtl.19770720.256
+
+Construction and Validation of Novel Prediction Tools Based on Large Population-Based Database to Predict the Prognosis of Urachal Cancer After Surgery https://doi.org/10.3389/fonc.2021.718691
+
+An Integrated Method for River Water Level Recognition from Surveillance Images Using Convolution Neural Networks https://doi.org/10.3390/rs14236023
