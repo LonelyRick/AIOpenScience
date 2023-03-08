@@ -50,7 +50,7 @@ docker run -t --rm -p 8070:8070 lfoppiano/grobid:0.7.2
 ```
 4) Create the volume using the shared folder
 ```bash
-docker volume create my-volume
+docker volume create shared
 ```
 6) Run the code container 
 ```bash
