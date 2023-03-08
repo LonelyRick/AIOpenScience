@@ -50,12 +50,6 @@ docker run -t --rm -p 8070:8070 lfoppiano/grobid:0.7.2
 ```bash
 docker run --rm -it --network="host" -v ./shared:/shared img_name
 ```
-# Citations
-@misc{GROBID,
-    title = {GROBID},
-    howpublished = {\url{https://github.com/kermitt2/grobid}},
-    publisher = {GitHub},
-    year = {2008--2023},
-    archivePrefix = {swh},
-    eprint = {1:dir:dab86b296e3c3216e2241968f0d63b68e8209d3c}
-}
+## References
+
+- GROBID. (2008-2023). Retrieved from https://github.com/kermitt2/grobid
