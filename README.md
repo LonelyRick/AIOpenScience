@@ -40,6 +40,7 @@ python entrega.py
 docker build -t img_name .
 ```
 Make sure that the dockerfile is located where entrega.py is
+
 3) Get Grobid Docker image and run it in port 8070
 ```bash
 docker pull lfoppiano/grobid:0.7.2
