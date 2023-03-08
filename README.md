@@ -4,6 +4,8 @@
 
 Esta es la librería para la clase Artificial Intelligence And Open Science In Research Software Engineering
 
+This code analyzes a series of input papers though Grobid and returns a Wordcloud based on the abstract, a list of all the links inside of the paper and a bar graph with the number of figures per paper.
+
 # How to use locally 
 
 In order to use it locally :
@@ -22,7 +24,7 @@ One example:
 ```bash
 pip install PyPDF2 
 ```
-5) Add in the folder ./code/shared all the PDFs that you want to have analyzed 
+5) Add in the folder ./code/shared all the downloaded PDFs that you want to have analyzed 
 6) Get Grobid Docker image and run it in port 8070
 ```bash
 docker pull lfoppiano/grobid:0.7.2
@@ -34,7 +36,7 @@ python entrega.py
 ```
 # How to use using Docker 
 
-1) Add in the folder ./code/shared all the PDFs that you want to have analyzed 
+1) Add in the folder ./code/shared all the downloaded PDFs that you want to have analyzed 
 2) Build the docker image
 ```bash
 docker build -t img_name .
