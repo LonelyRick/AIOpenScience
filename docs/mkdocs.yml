@@ -1,0 +1,6 @@
+site_name: First Individual Assesment
+
+nav: 
+  - Explanation: rationale.md
+
+theme: readthedocs
