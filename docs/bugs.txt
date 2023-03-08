@@ -1,0 +1,24 @@
+This file include all known bugs in the current code:
+
+  1) The Readthedocs is not working properly due to compilation errors 
+    python -m mkdocs build --clean --site-dir $READTHEDOCS_OUTPUT/html --config-file mkdocs.yml
+        Traceback (most recent call last):
+          File "/home/docs/.pyenv/versions/3.7.9/lib/python3.7/runpy.py", line 193, in _run_module_as_main
+            "__main__", mod_spec)
+          File "/home/docs/.pyenv/versions/3.7.9/lib/python3.7/runpy.py", line 85, in _run_code
+            exec(code, run_globals)
+          File "/home/docs/checkouts/readthedocs.org/user_builds/aiopenscience/envs/latest/lib/python3.7/site-packages/mkdocs/__main__.py", line 14, in <module>
+            from mkdocs import config
+          File "/home/docs/checkouts/readthedocs.org/user_builds/aiopenscience/envs/latest/lib/python3.7/site-packages/mkdocs/config/__init__.py", line 2, in <module>
+            from mkdocs.config.defaults import DEFAULT_SCHEMA
+          File "/home/docs/checkouts/readthedocs.org/user_builds/aiopenscience/envs/latest/lib/python3.7/site-packages/mkdocs/config/defaults.py", line 4, in <module>
+            from mkdocs.config import config_options
+          File "/home/docs/checkouts/readthedocs.org/user_builds/aiopenscience/envs/latest/lib/python3.7/site-packages/mkdocs/config/config_options.py", line 8, in <module>
+            from mkdocs import utils, theme, plugins
+          File "/home/docs/checkouts/readthedocs.org/user_builds/aiopenscience/envs/latest/lib/python3.7/site-packages/mkdocs/theme.py", line 9, in <module>
+            from mkdocs.utils import filters
+          File "/home/docs/checkouts/readthedocs.org/user_builds/aiopenscience/envs/latest/lib/python3.7/site-packages/mkdocs/utils/filters.py", line 11, in <module>
+            @jinja2.contextfilter
+        AttributeError: module 'jinja2' has no attribute 'contextfilter'
+   
+   2) The encoding of the code is not working properly, some words displayed on the WordCloud are represented with unrecognizable caracters
